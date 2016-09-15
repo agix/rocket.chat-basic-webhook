@@ -1,0 +1,25 @@
+{
+  "name": "rocket.chat-basic-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.5.0",
+    "eslint-config-airbnb-base": "^7.1.0",
+    "eslint-plugin-import": "^1.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agix/rocket.chat-basic-webhook.git"
+  },
+  "author": "agix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agix/rocket.chat-basic-webhook/issues"
+  },
+  "homepage": "https://github.com/agix/rocket.chat-basic-webhook#readme"
+}
